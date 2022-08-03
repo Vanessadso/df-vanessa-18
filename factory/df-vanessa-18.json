@@ -1,0 +1,9 @@
+{
+	"name": "df-vanessa-18",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62ef3695-3668-4f86-81fe-918e5a67b272",
+		"tenantId": "a49e2ad8-3b8d-40e8-8c45-1505c9a243d3"
+	}
+}
