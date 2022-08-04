@@ -70,7 +70,7 @@
 								},
 								"ifTrueActivities": [
 									{
-										"name": "Notebook1",
+										"name": "Notebook",
 										"type": "DatabricksNotebook",
 										"dependsOn": [],
 										"policy": {
@@ -80,7 +80,14 @@
 											"secureOutput": false,
 											"secureInput": false
 										},
-										"userProperties": []
+										"userProperties": [],
+										"typeProperties": {
+											"notebookPath": "/Users"
+										},
+										"linkedServiceName": {
+											"referenceName": "ls_databricks",
+											"type": "LinkedServiceReference"
+										}
 									}
 								]
 							}
