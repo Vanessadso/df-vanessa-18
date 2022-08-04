@@ -82,7 +82,7 @@
 										},
 										"userProperties": [],
 										"typeProperties": {
-											"notebookPath": "/Users"
+											"notebookPath": "/Users/vsousaol@emeal.nttdata.com/Beca/csv_ingestion"
 										},
 										"linkedServiceName": {
 											"referenceName": "ls_databricks",
