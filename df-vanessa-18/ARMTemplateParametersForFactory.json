@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-vanessa-18"
+		},
+		"ls_datakale_beca_properties_typeProperties_url": {
+			"value": "https://lakevanessa18.dfs.core.windows.net/"
+		},
+		"ls_key_vault_properties_typeProperties_baseUrl": {
+			"value": "https://kv-beca-vanessa18.vault.azure.net/"
+		}
+	}
+}
